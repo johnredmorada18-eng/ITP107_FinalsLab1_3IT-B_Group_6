@@ -1,0 +1,11 @@
+{
+  "name": "PanelVerse",
+  "short_name": "PanelVerse",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0c0e13",
+  "theme_color": "#ff6b60",
+  "description": "A manga and manhwa inspired Flutter navigation demo.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
